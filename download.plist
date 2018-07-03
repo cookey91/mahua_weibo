@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>items</key>
+        <array>
+            <dict>
+                <key>assets</key>
+                <array>
+                    <dict>
+                        <key>kind</key>
+                        <string>software-package</string>
+                        <key>url</key>
+                        <string>https://nj01ct01.baidupcs.com/file/b7722a07685757f113c9bb9c31a8d9dd?bkt=p3-0000806305db5785ec1022592d32e39f1f6f&fid=2074651218-250528-295413212604338&time=1530597849&sign=FDTAXGERLQBHSKa-DCb740ccc5511e5e8fedcff06b081203-SCU9XJnq6481pJkKAdysfrRFgMc%3D&to=63&size=189829576&sta_dx=189829576&sta_cs=0&sta_ft=ipa&sta_ct=0&sta_mt=0&fm2=MH%2CYangquan%2CAnywhere%2C%2Cguangdong%2Cct&vuk=2074651218&iv=-2&newver=1&newfm=1&secfm=1&flow_ver=3&pkey=0000806305db5785ec1022592d32e39f1f6f&sl=82640974&expires=8h&rt=sh&r=437061649&mlogid=4257882595878618551&vbdid=2256657394&fin=tyCdtl_dev.ipa&fn=tyCdtl_dev.ipa&rtype=1&dp-logid=4257882595878618551&dp-callid=0.1.1&hps=1&tsl=50&csl=78&csign=w1yigTdZUCF%2BJJyoLXEyrL0smjY%3D&so=0&ut=8&uter=4&serv=0&uc=3661173580&ic=1350335849&ti=f042c2604f2a31c53422672e2a383bd50fede3bdbdfcc44a&by=themis</string> 
+                    </dict>
+                    <dict>
+                        <key>kind</key>
+                        <string>full-size-image</string>
+                        <key>needs-shine</key>
+                        <true/>
+                    </dict>
+                    <dict>
+                        <key>kind</key>
+                        <string>display-image</string>
+                        <key>needs-shine</key>
+                        <true/>
+                    </dict>
+                </array>
+                <key>metadata</key>
+                <dict>
+                    <key>update-url</key>
+                    <string>版本更新URL路径，即plist配置文件路径（备注：若无，需去除该字段）</string>
+                    <key>bundle-identifier</key>
+                    <string>com.yxpt.cdtl</string>
+                    <key>bundle-version</key>
+                    <string>3.0.1</string>
+                    <key>kind</key>
+                    <string>software</string>
+                    <key>title</key>
+                    <string>菜刀屠龙</string>
+                </dict>
+            </dict>
+        </array>
+    </dict>
+</plist>
