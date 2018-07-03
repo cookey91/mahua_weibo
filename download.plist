@@ -1,0 +1,31 @@
+1. <?xml version="1.0" encoding="UTF-8"?>  
+2. <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">  
+3. <plist version="1.0">  
+4. <dict>  
+5.     <key>items</key>  
+6.     <array>  
+7.         <dict>  
+8.             <key>assets</key>  
+9.             <array>  
+10.                 <dict>  
+11.                     <key>kind</key>  
+12.                     <string>software-package</string>  
+13.                     <key>url</key>  
+14.                     <string>http://www.lcygame.com/sdk/tyCdtl_dev.ipa</string>  
+15.                 </dict>  
+16.             </array>  
+17.             <key>metadata</key>  
+18.             <dict>  
+19.                 <key>bundle-identifier</key>
+                    <string>com.yxpt.cdtl</string>
+                    <key>bundle-version</key>
+                    <string>3.0.1</string>
+                    <key>kind</key>
+                    <string>software</string>
+                    <key>title</key>
+                    <string>菜刀屠龙</string>
+27.             </dict>  
+28.         </dict>  
+29.     </array>  
+30. </dict>  
+31. </plist>  
