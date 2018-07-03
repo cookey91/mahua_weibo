@@ -29,7 +29,7 @@
                 <key>metadata</key>
                 <dict>
                     <key>update-url</key>
-                    <string>版本更新URL路径，即plist配置文件路径（备注：若无，需去除该字段）</string>
+                    <string>https://raw.githubusercontent.com/cookey91/mahua_weibo/master/download.plist</string>
                     <key>bundle-identifier</key>
                     <string>com.yxpt.cdtl</string>
                     <key>bundle-version</key>
